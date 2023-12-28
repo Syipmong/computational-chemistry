@@ -24,4 +24,6 @@ Print to Console - Additional Information:
 
 Use the print function to display the following additional information on the console:
 Your favorite hobby
-Your favorite color"""
+Your favorite color
+
+"""
