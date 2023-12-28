@@ -6,6 +6,7 @@ age = 80
 
 
 print("My name is "+ fname+ " " +lname)
+print("I am ", age, "Years old")
 
 """Instructions:
 
